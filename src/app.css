@@ -16,3 +16,5 @@ button { outline: none; border: 0; cursor: pointer;}
 .habit-increase,
 .habit-decrease {color: goldenrod}
 .habit-delete { color: darkred; font-size: 2rem;}
+
+.habit-reset { padding: 0.2em 1em; background-color: rgb(62, 62, 143); color: white; font-size: 1.5rem;}
